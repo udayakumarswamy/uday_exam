@@ -63,9 +63,11 @@ ob_start();
     <div class="container">
       <ul class="mainnav">
         <li class="active"><a href="index.php"><i class="icon-dashboard"></i><span>Dashboard</span> </a> </li>
-        <li><a href="classes_list.php"><i class="icon-list-alt"></i><span>Classes</span> </a> </li>
+        <li><a href="years_list.php"><i class="icon-list-alt"></i><span>Years</span> </a> </li>
+				<li><a href="classes_list.php"><i class="icon-list-alt"></i><span>Classes</span> </a> </li>
         <li><a href="subjects_list.php"><i class="icon-list-alt"></i><span>Subjects</span> </a> </li>
         <li><a href="questions_list.php"><i class="icon-list-alt"></i><span>Questions</span> </a> </li>
+				<li><a href="tests_list.php"><i class="icon-list-alt"></i><span>Mock Tests</span> </a> </li>
 				<li><a href="exams_list.php"><i class="icon-list-alt"></i><span>User Exams</span> </a> </li>
 				<li><a href="users_list.php"><i class="icon-user"></i><span>Users</span> </a> </li>
 				<li><a href="admins_list.php"><i class="icon-user"></i><span>Admins</span> </a> </li>
